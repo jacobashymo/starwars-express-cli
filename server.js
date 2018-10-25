@@ -35,6 +35,13 @@ var characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
+  },
+  {
+    routeName: "hansolo",
+    name: "Han Solo",
+    role: "Rebel/Bounty Hunter",
+    age: 32,
+    forcePoints: 1000
   }
 ];
 
